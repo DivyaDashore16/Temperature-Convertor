@@ -1,0 +1,29 @@
+*{
+    background-color:black;
+    color:#ffff;
+}
+
+label{
+    font-size:18px;
+}
+.container{
+    text-align:center;
+    margin-top:200px;
+}
+input{
+    border-color:cyan;
+    box-shadow:0px 5px 10px cyan;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
+
+}
+.button{
+    background-color:blue;
+    color:#ffff;
+    height:auto;
+    width:200px;
+    border:none;
+    padding:10px;
+    border-radius:10px;
+}
+
